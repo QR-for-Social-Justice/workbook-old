@@ -6,17 +6,17 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>Me</personname>
-      <department>My department</department>
-      <institution>My school</institution>
+      <personname>Kenan Ince</personname>
+      <department>Department of Mathematics</department>
+      <institution>Westminster College, Salt Lake City</institution>
     </author>
     <date><today/></date>
   </titlepage>
 
   <colophon>
     <website>
-      <name><c>my-website.org</c></name>
-      <address>http://my.website.org</address>
+      <name><c>kenanince.org</c></name>
+      <address>http://kenanince.org</address>
     </website>
 
     <copyright>
@@ -30,7 +30,7 @@
         <!-- <image source="../images/by-sa.png" width="15%"/>  -->
         This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
         To view a copy of this license, visit
-        <url 
+        <url
           href="http://creativecommons.org/licenses/by-sa/4.0/"
           visual="creativecommons.org/licenses/by-sa/4.0">
           CreativeCommons.org</url>
@@ -48,7 +48,7 @@
 
   <acknowledgement>
     <p>
-      I would like to thank...
+      We would like to thank our colleagues at Westminster who have encouraged interdisciplinary and justice-minded thinking, every educator doing this work, and especially the activists and K-12 educators who have blazed the trail of social justice math for decades.
     </p>
 
   </acknowledgement>
@@ -57,11 +57,10 @@
     <!-- You should be a little careful about what you put here -->
     <!-- Avoid elements that should have a number, for example  -->
     <p>
-      About this book:
+      This workbook is designed to be used as the primary text for a course on quantitative reasoning with a particular focus on social and political issues. We encourage you to implement the chapters as modules in any relevant course--see <xi:include href="./ch_crashcourse.ptx" />
     </p>
 
   </preface>
 
   <!-- You can have more than one preface. -->
 </frontmatter>
-
