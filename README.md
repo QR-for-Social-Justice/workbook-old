@@ -9,6 +9,6 @@ Welcome to the workbook's GitHub page! This is a work in progress, though I hope
 
 The book itself is currently hosted [on my website](https://cs.westminstercollege.edu/~kince/qr4sj/). Feel free to explore, and don't hesitate to [reach out](mailto:kince@westminstercollege.edu) if you have comments, questions, or suggestions!
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ![This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
