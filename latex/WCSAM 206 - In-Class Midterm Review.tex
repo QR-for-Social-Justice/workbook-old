@@ -1,0 +1,67 @@
+%% LyX 2.3.6.2 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[oneside,english]{amsart}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage{amsthm}
+
+\makeatletter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+\numberwithin{equation}{section}
+\numberwithin{figure}{section}
+
+\makeatother
+
+\usepackage{babel}
+\begin{document}
+\title{WCSAM 206 In-Class Midterm Review}
+\author{Kenan Ince}
+\maketitle
+\begin{enumerate}
+\item Encrypt the following, if it's possible for someone with a key to
+decrypt it, or explain why it's not possible.
+\begin{enumerate}
+\item ``open the box'', shift cipher, $k=12$
+\item ``open the box'', affine cipher, $m=12$, $k=1$
+\item ``don't forget the key'', keyword cipher with keyword ``aubergine''
+\item ``forget the key'', affine cipher with alphabet ABCDEFGHIJKLMNOPQRSTUVWXYZ!?\$,
+$m=25$, $k=1$
+\end{enumerate}
+\item Decrypt the following, if possible, or explain why it's not possible.
+\begin{enumerate}
+\item UJYJW UNUJW UNHPJI, shift cipher, unknown key
+\item dcc ydp fufsp ydp, affine cipher, $m=7$, $k=3$
+\item NBXBF BHBXBF, affine cipher, $m=12$, $k=5$
+\item R2JJ NVI2, affine cipher with alphabet ABCDEFGHIJKLMNOPQRSTUVWXYZ!?\$2,
+$m=13$, $k=1$
+\begin{enumerate}
+\item To find $13^{-1}\mod30$, first do the Euclidean Algorithm on $30$
+and $13$:
+\begin{align*}
+30 & =13(2)+4\\
+13 & =4(3)+1
+\end{align*}
+\item Then solve for the remainders:
+\begin{align*}
+4 & =30-13(2)\\
+1 & =13-4(3)
+\end{align*}
+\item Substitute the top equation into the bottom one:
+\begin{align*}
+1 & =13-4(3)\\
+1 & =13-[30-13(2)](3)\\
+ & =13-30(3)+13(6)\\
+ & =13(7)+30(-3)
+\end{align*}
+\item Hence $13^{-1}=7\mod30$. Double-check:
+\[
+13\times7=91\equiv1\mod30.
+\]
+\end{enumerate}
+\item YCYND YPYHMIKR YIRQ YINVWNOQ, monoalphabetic substitution cipher,
+unknown alphabet
+\end{enumerate}
+\end{enumerate}
+
+\end{document}
