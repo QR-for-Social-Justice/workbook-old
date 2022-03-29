@@ -1,2 +1,2 @@
-/Volumes/Google%20Drive/Work%20Google%20Drive/My%20Drive/Research%20&%20Professional%20Activity/My%20Publications/A%20Quantitative%20Reasoning%20for%20Social%20Justice%20Workbook/qr-for-social-justice/source/main.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element include there
-/Volumes/Google%20Drive/Work%20Google%20Drive/My%20Drive/Research%20&%20Professional%20Activity/My%20Publications/A%20Quantitative%20Reasoning%20for%20Social%20Justice%20Workbook/qr-for-social-justice/source/main.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element pretext has extra content: include
+/home/user/qr-for-social-justice/source/main.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element include there
+/home/user/qr-for-social-justice/source/main.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element pretext has extra content: include

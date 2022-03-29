@@ -2,27 +2,25 @@
 
 <section xml:id="sec_firstch-examples" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Example SJ Math Activities for the First Day</title>
+    <introduction>Here are some examples of questions I've asked my students, almost always in a think-pair-share format, to start off a semester-long course on quantitative reasoning for social justice.</introduction>
   
-  <p>
-    Here are some examples of questions I've asked my students, almost always in a think-pair-share format, to start off a semester-long course on quantitative reasoning for social justice:
-  </p>
  
-  <exercise>
-    <statement>
-      <p>What do you think of when you think of social justice? What are 2-3 issues of SJ you're passionate about? Can we develop a working definition of SJ as a class?</p>
-    </statement>
+          <exercise>
+        <title>Defining social justice</title>
+
+
+              <statement>What do you think of when you think of social justice? What are 2-3 issues of SJ you're passionate about? Can we develop a working definition of SJ as a class?</statement>
+
     <answer>
       <p>
-        <ul>Some possible answers: 
-            <li>justice in terms of the distribution of wealth, opportunities, and privileges within a society. (Google Dictionary)</li>
+        Some possible answers: 
+<ul>        <li>justice in terms of the distribution of wealth, opportunities, and privileges within a society. (Google Dictionary)</li>
             <li>a concept of fair and just relations between the individual and society. (Wikipedia)</li>
             <li>a state or doctrine of egalitarianism (Merriam-Webster)</li>
             <li>A broad term for action intended to create genuine equality, fairness and respect among peoples. (University of Massachusetts Lowell Department of Multicultural Affairs)</li>       
           </ul>
         </p>
-      </answer>
-  </exercise>
-
+    
     <p>One working definition that my classes have used (due to Sensoy-DiAngelo) is the following. <i>Social justice</i> is a recognition that:
 <ul>
     <li>all people are individuals, but we are also members of socially constructed groups; </li>
@@ -35,27 +33,30 @@
     <li>this action requires a commitment to an ongoing and lifelong process. </li>
         </ul>
     </p>
+      </answer>
 
+  </exercise>
   <p>
     Here are some more examples I've used in courses during the pandemic:
   </p>
 
-  <example>
-    <p>
-      A first-day activity for a pandemic
-    </p>
-      <ol>
-          <li>What are some social justice issues that are important to you in the midst of rising inequality and authoritarianism, climate crisis, racial justice movements, and more?</li>
-          <li>What are some ways we could measure each of these issues? (how bad they are, solutions, societal reactions, etc.)</li>
-          <li>What are some things you don't know how to measure about each of these issues?</li>
-          <li>Estimate: what are some strategies for measuring these things? Don't try to plug in numbers yet, just make a list.</li>
-          <li>What are some ways to, as accurately as possible, measure how severe the COVID-19 outbreak is in your city? Write down any assumptions you make about what “severe” means.</li>
-          <li>If you were a disability rights activist concerned about the dangers of COVID-19 for immunocompromised folks, which of these ways would you choose to measure? Estimate or find the info.</li>
-          <li>If you were an administrator at your college or university, which of these ways would you choose to measure? Explain, then estimate or find the info.</li>
-          <li>What are some things it would be ideal to be able to measure in order to curtail or prevent the spread of COVID-19 in your city? Do the same as above: how would you measure these things as a disability rights activist? As a college administrator?</li>
-          <li>Brainstorm some ways to obtain the measurements you described above. If you obtained these measurements, how could you use them to advocate for positive change?</li>
-          <li>What questions about social justice, health/accessibility, and math does this activity bring up for you?</li>
-      </ol>
+    <exercise>
+        <title>A first-day activity for a pandemic</title>
+        <introduction>Consider the following questions</introduction>
+        
+
+        <task><statement>What are some social justice issues that are important to you in the midst of rising inequality and authoritarianism, climate crisis, racial justice movements, and more?</statement></task>
+        <task><statement>What are some ways we could measure each of these issues? (how bad they are, solutions, societal reactions, etc.)</statement></task>
+        <task><statement>What are some things you don't know how to measure about each of these issues?</statement></task>
+        <task><statement>Estimate: what are some strategies for measuring these things? Don't try to plug in numbers yet, just make a list.</statement></task>
+        <task><statement>What are some ways to, as accurately as possible, measure how severe the COVID-19 outbreak is in your city? Write down any assumptions you make about what “severe” means.</statement></task>
+        <task><statement>If you were a disability rights activist concerned about the dangers of COVID-19 for immunocompromised folks, which of these ways would you choose to measure? Estimate or find the info.</statement></task>
+        <task><statement>If you were an administrator at your college or university, which of these ways would you choose to measure? Explain, then estimate or find the info.</statement></task>
+        <task><statement>What are some things it would be ideal to be able to measure in order to curtail or prevent the spread of COVID-19 in your city? Do the same as above: how would you measure these things as a disability rights activist? As a college administrator?</statement></task>
+        <task><statement>Brainstorm some ways to obtain the measurements you described above. If you obtained these measurements, how could you use them to advocate for positive change?</statement></task>
+        <task><statement>What questions about social justice, health/accessibility, and math does this activity bring up for you?</statement></task>
+
+    <solution>
       <p>You may have come up with questions similar to the following:
           <ol>
               <li>How did we measure X?</li>
@@ -72,13 +73,14 @@
           <li><b>Dimensional analysis</b>: start with the given and multiply by fractions, canceling out the units, until you get something in the units your answer should be in. This is almost always your answer!</li>
       </ul>
     </p>
-      </example>
+    </solution>
+    </exercise>
     
-    <example>
-        <p>
-            This activity is almost directly adapted from Dana Ernst's <url href="https://danaernst.com/setting-the-stage/">"Setting the Stage"</url> inquiry-based learning activity.
+<exercise>
+    <title>Setting the stage</title>
+            This activity is almost directly adapted from Dana Ernst's <url visual="https://danaernst.com/setting-the-stage/">"Setting the Stage"</url> inquiry-based learning activity.
             
-            Get in groups of size 3–4. Group members should introduce themselves - name, pronouns, hobbies outside school, goals for the semester/year, reason they're taking the course. For each of the questions that follow, I will ask you to: 
+            <statement>Get in groups of size 3–4. Group members should introduce themselves - name, pronouns, hobbies outside school, goals for the semester/year, reason they're taking the course. For each of the questions that follow, I will ask you to: 
             <ol>
                 <li>Think about a possible answer on your own.</li>
                 <li>Discuss your answers with the rest of your group.</li>
@@ -91,11 +93,12 @@
                 <li>How does a person learn something new? </li>
                 <li>What is the value of making mistakes in the learning process? </li>
                 <li>How do we create a safe environment where risk taking is encouraged and productive failure is valued? </li>        
-            </ol>
-        </p>        
+            </ol></statement>
+
+            <solution>
         <p>
-            As Ernst describes on <url href="https://danaernst.com/setting-the-stage/">his website</url>, 
-            <blockquote><p>Each time I’ve run the activity, the responses are slightly different. The responses to the first two questions are usually what you would expect. Question 3 always generates great discussions. The idea of “productive failure” naturally arises when discussing question 4 and I provide them with this language sometime while discussing this question. Listening to the students’ responses to question 4 is awesome. It’s really nice to get the students establishing the necessary culture of the class without me having to tell them what to do.</p>
+            As Ernst describes on <url visual="https://danaernst.com/setting-the-stage/">his website</url>, 
+<p>Each time I’ve run the activity, the responses are slightly different. The responses to the first two questions are usually what you would expect. Question 3 always generates great discussions. The idea of “productive failure” naturally arises when discussing question 4 and I provide them with this language sometime while discussing this question. Listening to the students’ responses to question 4 is awesome. It’s really nice to get the students establishing the necessary culture of the class without me having to tell them what to do.</p>
 
                 <p>After we are done discussing the 5 questions, I elaborate on the importance of productive failure and inform that I will often tag things in class with the hashtag #pf in an attempt to emphasize its value. I also provide them with the following quote from Mike Starbird: “Any creative endeavor is built on the ash heap of failure.” I wrap up the activity by conveying some claims I make about education and stating some of my goals as a teacher. </p>
 
@@ -105,12 +108,15 @@
                         <li>If we really want students to be independent, inquisitive, &amp; persistent, then we need to provide them with the means to acquire these skills.</li>
                     </ul>
                 </p>
-            </blockquote>        
+            
         </p>
-    </example>
+            </solution>        
+    </exercise>    
     	<subsection xml:id="group-work-and-class-norms">
 		<title>Group work and class norms</title>
-
+<introduction>There is some evidence that the use of group roles, in which all group members rotate assigned tasks each day, improves student learning<fn>See e.g. Hauk, S., Speer, N. M., Kung, D., Tsay, J.-J., and Hsu, E. (Eds.) (2013). Video cases for college mathematics instructor professional development, currently accessible (as of 3-29-2022) at <url visual="http://collegemathvideocases.org/pdf/GroupWork.pdf">this link</url>.</fn>
+            Additionally, in a course that discusses sensitive political topics, my experience has emphasized the importance of agreeing on discussion norms <b>before</b> beginning a sensitive discussion. I hope the following activities help with establishing both of these sets of norms.
+            </introduction>
 
 		<subsubsection xml:id="ground-rules">
 			<title>Ground rules</title>
@@ -119,7 +125,8 @@
 				Given the nature of this course, it’s important that we develop class norms to promote an atmosphere which will facilitate the learning process as well as respect the experiences of different groups in the classroom and the larger society. The class can agree to revise them and add others, but all students must commit themselves to the final set of rules by the end of the first class. These principles will guide our class discussions and interactions.
 			</p>
 
-            <exercise><p>Think-Pair-Share on what common norms for group work and discussion are important for our class.</p></exercise>
+            <statement><title>Setting group norms</title>
+            <exercise><p>Think-Pair-Share on what common norms for group work and discussion are important for our class.</p>
 
 			<p><ul>
 				<li>
@@ -141,8 +148,8 @@
 				</li>
                 </ul>
             </p>
-            
-            
+            </exercise>
+            <example-solution>
             <p>
 				Here are some useful classroom norms:
 			</p>
@@ -193,7 +200,11 @@
 			</p>
                 </li>
                 </ol>
+                </p>
+                </example-solution>
+                </statement>
 <!-- div attr= class="xca"-->
+               
 			<exercises>
                 <exercise><p>(TPS) What does respect look like for you? How might ideas of respect vary with cultural context? How might you firmly challenge the views of someone else in a respectful manner?</p></exercise>
 			<!--</div attr= class="xca">-->
@@ -203,9 +214,10 @@
 				</exercises>
                     
 
-			</p>
+			
 </subsubsection>
             <subsubsection xml:id="group-roles">
+                <title>Group roles</title>
 							<p>
 				<term>Group roles</term>: In order to facilitate group interaction, you will take on group roles designed to mimic the role of mathematical and/or sociological researchers. The roles are as follows: 			</p>
 
