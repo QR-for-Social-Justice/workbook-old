@@ -273,6 +273,10 @@ The ideas below are heavily influenced by each of these sources as well
  as my own experience.
 \end_layout
 
+\begin_layout Subsection
+Empathy and inclusion
+\end_layout
+
 \begin_layout Standard
 First and foremost, the best teachers are empathetic and inclusive.
  In particular, they believe that every student can learn, and that learning
@@ -282,6 +286,10 @@ First and foremost, the best teachers are empathetic and inclusive.
  This often involves allowing students to correct assignments/exams and
  certainly not repeatedly giving high-stakes assessments without providing
  time for students to reflect and correct mistakes.
+\end_layout
+
+\begin_layout Subsection
+Peer instruction
 \end_layout
 
 \begin_layout Standard
@@ -302,6 +310,10 @@ expert blind spot,
  problem areas to students.
 \end_layout
 
+\begin_layout Subsection
+Metacognition
+\end_layout
+
 \begin_layout Standard
 Students bring their own prior knowledge into every course they take.
  In order to promote learning–which necessitates a change in mental models–it's
@@ -320,6 +332,10 @@ teaching the paradoxes
 \emph default
 –as mathematicians, we value paradox for the inaccuries it points out in
  our own thinking, and it's worth passing this tool on to our students.
+\end_layout
+
+\begin_layout Subsection
+Instructor-guided construction of knowledge
 \end_layout
 
 \begin_layout Standard
@@ -361,6 +377,81 @@ Mini-lectures
  Making time for students to ask questions during lectures–and even calling
  on students or groups to share their responses to a lecture–help engage
  students and facilitate learning.
+\end_layout
+
+\begin_layout Section
+Liberatory grading practices
+\end_layout
+
+\begin_layout Subsection
+What does the research say?
+\end_layout
+
+\begin_layout Standard
+Unfortunately, there is a dearth of researching supporting either traditional
+ grading practices or the alternative practices that have begun to grow
+ in popularity among college educators, such as specifications/standards-based
+ grading, ``grading for growth'' (sometimes called ``mastery-based grading''),
+ and ungrading 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "matttownsleyWhatDoesResearch2016"
+literal "false"
+
+\end_inset
+
+.
+ In fact, these terms are often not used in a well-defined way; for example,
+ I consider ``grading for growth'' to allow the opportunity for revision
+ and to base final grades on which concepts a student has demonstrated mastery;
+ however, a list of learning targets a student is expected to know by end
+ of term may be referred to by some as ``specifications''.
+ 
+\end_layout
+
+\begin_layout Standard
+What is known is that traditional grading has been linked to increased student
+ stress and anxiety and cheating, as well as decreased cooperative learning,
+ critical thinking, extrinsic student motivation, and feelings of trust
+ between teachers and students 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "chamberlinImpactGradesStudent2018a"
+literal "false"
+
+\end_inset
+
+.
+ This has led many academics to question whether traditional grading is
+ the best way of performing the dual goals of providing both formative feedback
+ to the student and summative feedback to external audiences such as graduate
+ schools and employers, or even how much importance should be placed on
+ the latter function.
+ 
+\end_layout
+
+\begin_layout Subsection
+Standards-based grading and ``grading for growth''
+\end_layout
+
+\begin_layout Subsection
+Ungrading
+\end_layout
+
+\begin_layout Section
+Sources and further reading
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "qr4sj"
+options "amsalpha"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
