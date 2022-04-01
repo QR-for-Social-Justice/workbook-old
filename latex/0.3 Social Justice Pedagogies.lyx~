@@ -388,7 +388,7 @@ What does the research say?
 \end_layout
 
 \begin_layout Standard
-Unfortunately, there is a dearth of researching supporting either traditional
+Unfortunately, there is a dearth of research supporting either traditional
  grading practices or the alternative practices that have begun to grow
  in popularity among college educators, such as specifications/standards-based
  grading, ``grading for growth'' (sometimes called ``mastery-based grading''),
@@ -430,8 +430,37 @@ literal "false"
  
 \end_layout
 
+\begin_layout Standard
+A recent experiment in cell biology courses has shown that specifications
+ grading improves student attitudes about learning and their performance
+ on content-related assessment questions compared to control sections 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "katzmanEffectSpecificationsGrading"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Subsection
 Standards-based grading and ``grading for growth''
+\end_layout
+
+\begin_layout Standard
+``Grading for growth'', perhaps better known by the name ``mastery-based
+ grading'', is a grading system designed to measure whether, and how much,
+ students understand the learning objectives of the course by the end of
+ the term.
+ These learning objectives are granular and specific, often measured by
+ assignments designed to allow students the opportunity to demonstrate understan
+ding of a few learning targets at a time.
+ Teachers give feedback on student understanding and lack thereof with specific
+ recommendations for students.
+ Students then take this feedback and either revise their previous answers
+ or practice that objective more in time for future opportunities to demonstrate
+ knowledge of that target.
 \end_layout
 
 \begin_layout Subsection
