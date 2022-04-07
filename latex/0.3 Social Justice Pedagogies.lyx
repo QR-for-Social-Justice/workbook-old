@@ -449,6 +449,48 @@ Standards-based grading and ``grading for growth''
 \end_layout
 
 \begin_layout Standard
+Indeed, the definition of ``specifications grading'' used in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "katzmanEffectSpecificationsGrading"
+literal "false"
+
+\end_inset
+
+—``a grading system in which mastery of specific educational outcomes is
+ the basis for the final grade a student earns in the course''—resembles
+ many faculty's definition of ``standards-based grading'' or ``grading for
+ growth''.
+ In perhaps the most famous book on specifications grading for postsecondary
+ educators, Nilson and Stanny 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "nilsonSpecificationsGradingRestoring2014"
+literal "false"
+
+\end_inset
+
+ define specifications grading as ``binary grading that is based on up-front,
+ clearly communicated pass/fail expectations''.
+ Specifications, thus, are traditionally standards for passing 
+\emph on
+assignments
+\emph default
+, whereas the ``standards'' in standards-based grading often align with
+ course-wide learning objectives and are a basis for assigning final letter
+ grades: ``the course grade is based on how many standards the student has
+ mastered 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "mendezStandardsBasedSpecificationsGrading2018a"
+literal "false"
+
+\end_inset
+
+.''
+\end_layout
+
+\begin_layout Standard
 ``Grading for growth'', perhaps better known by the name ``mastery-based
  grading'', is a grading system designed to measure whether, and how much,
  students understand the learning objectives of the course by the end of
@@ -474,6 +516,62 @@ Ungrading
 
 \begin_layout Section
 Sources and further reading
+\end_layout
+
+\begin_layout Standard
+If you’re new to incorporating social justice issues into math classes,
+ I’d encourage you to start by reading or skimming Jonathan Osler’s “A Guide
+ for Integrating Issues of Social and Economic Justice into Mathematics
+ Curriculum” 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "oslerGuideIntegratingIssues"
+literal "false"
+
+\end_inset
+
+, made by a high-school educator but equally relevant in the postsecondary
+ context.
+ Next, Drew Winter’s “Infusing Mathematics with Culture” 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "winterInfusingMathematicsCulture2007"
+literal "false"
+
+\end_inset
+
+ offers a valuable framework for thinking about the relationship between
+ mathematical content and social justice issues, as well as an emphasis
+ on connecting to student activism and interests.
+ 
+\end_layout
+
+\begin_layout Standard
+An excellent framework for designing a course, even if you have already
+ chosen a text, is the ``backwards design'' method proposed by Wiggins and
+ McTighe 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wigginsUnderstandingDesign2005"
+literal "false"
+
+\end_inset
+
+, summarized in a guide by Bowen at the Vanderbilt University Center for
+ Teaching 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "bowenUnderstandingDesign"
+literal "false"
+
+\end_inset
+
+.
+ The backwards design method involves first determining what you want all
+ students to learn by the end of the term (these learning objectives often
+ align with the standards used to assign final grades) and choosing a course
+ structure, assignment types, and schedule that scaffolds students toward
+ those objectives.
 \end_layout
 
 \begin_layout Standard
