@@ -1,0 +1,1582 @@
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build -[Khtml -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+Now generating latex-images
+
+
+PTX: converting latex-image pictures from /home/user/qr-for-social-justice/source/main.ptx to svg graphics for placement in /home/user/qr-for-social-justice/generated-assets/latex-image
+PTX: extracting latex-image pictures from /home/user/qr-for-social-justice/source/main.ptx
+PTX: string parameters passed to extraction stylesheet: {'publisher': '/home/user/qr-for-social-justice/publication/publication.ptx'}
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-latex-image.xsl
+PTX: converting tikz-example-diagram.tex to tikz-example-diagram.pdf
+ PTX: cropping tikz-example-diagram.pdf to cropped-tikz-example-diagram.pdf
+PTX: renaming cropped-tikz-example-diagram.pdf to tikz-example-diagram.pdf
+PTX: converting tikz-example-diagram.pdf to tikz-example-diagram.svg
+ Now generating sageplot images
+
+
+PTX: converting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx to HTML graphics for placement in /home/user/qr-for-social-justice/generated-assets/sageplot
+PTX: extracting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-sageplot.xsl
+PTX: converting sageplot3d-example-diagram.sage to sageplot3d-example-diagram.html
+PTX: converting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx to SVG graphics for placement in /home/user/qr-for-social-justice/generated-assets/sageplot
+PTX: extracting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-sageplot.xsl
+PTX: converting sageplot-example-diagram.sage to sageplot-example-diagram.svg
+Now generating asymptote images
+
+
+PTX: converting Asymptote diagrams from /home/user/qr-for-social-justice/source/main.ptx to HTML graphics for placement in /home/user/qr-for-social-justice/generated-assets/asymptote with method "server"
+PTX: extracting Asymptote diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: string parameters passed to extraction stylesheet: {'publisher': '/home/user/qr-for-social-justice/publication/publication.ptx', 'sageplot.fileformat': 'svg'}
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-asymptote.xsl
+PTX: converting cflag.asy to cflag.html
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpeado77x3
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (3 times)
+    *               located within: "sec_firstch-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_firstch-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_firstch-intro" (xml:id), "Getting Started" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview htmlbuild html -d[4Pview htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+[31merror: [0mXML Syntax Error with instance of xinclude; see error_syntax.log. Quitting...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+Now generating latex-images
+
+
+PTX: converting latex-image pictures from /home/user/qr-for-social-justice/source/main.ptx to svg graphics for placement in /home/user/qr-for-social-justice/generated-assets/latex-image
+PTX: extracting latex-image pictures from /home/user/qr-for-social-justice/source/main.ptx
+PTX: string parameters passed to extraction stylesheet: {'publisher': '/home/user/qr-for-social-justice/publication/publication.ptx'}
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-latex-image.xsl
+PTX: converting tikz-example-diagram.tex to tikz-example-diagram.pdf
+PTX: cropping tikz-example-diagram.pdf to cropped-tikz-example-diagram.pdf
+PTX: renaming cropped-tikz-example-diagram.pdf to tikz-example-diagram.pdf
+PTX: converting tikz-example-diagram.pdf to tikz-example-diagram.svg
+Now generating sageplot images
+
+
+PTX: converting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx to HTML graphics for placement in /home/user/qr-for-social-justice/generated-assets/sageplot
+PTX: extracting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-sageplot.xsl
+PTX: converting sageplot3d-example-diagram.sage to sageplot3d-example-diagram.html
+PTX: converting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx to SVG graphics for placement in /home/user/qr-for-social-justice/generated-assets/sageplot
+PTX: extracting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-sageplot.xsl
+PTX: converting sageplot-example-diagram.sage to sageplot-example-diagram.svg
+Now generating asymptote images
+
+
+PTX: converting Asymptote diagrams from /home/user/qr-for-social-justice/source/main.ptx to HTML graphics for placement in /home/user/qr-for-social-justice/generated-assets/asymptote with method "server"
+PTX: extracting Asymptote diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: string parameters passed to extraction stylesheet: {'publisher': '/home/user/qr-for-social-justice/publication/publication.ptx', 'sageplot.fileformat': 'svg'}
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-asymptote.xsl
+PTX: converting cflag.asy to cflag.html
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpi7m148zu
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (12 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+Now generating latex-images
+
+
+PTX: converting latex-image pictures from /home/user/qr-for-social-justice/source/main.ptx to svg graphics for placement in /home/user/qr-for-social-justice/generated-assets/latex-image
+PTX: extracting latex-image pictures from /home/user/qr-for-social-justice/source/main.ptx
+PTX: string parameters passed to extraction stylesheet: {'publisher': '/home/user/qr-for-social-justice/publication/publication.ptx'}
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-latex-image.xsl
+PTX: converting tikz-example-diagram.tex to tikz-example-diagram.pdf
+PTX: cropping tikz-example-diagram.pdf to cropped-tikz-example-diagram.pdf
+PTX: renaming cropped-tikz-example-diagram.pdf to tikz-example-diagram.pdf
+PTX: converting tikz-example-diagram.pdf to tikz-example-diagram.svg
+Now generating sageplot images
+
+
+PTX: converting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx to HTML graphics for placement in /home/user/qr-for-social-justice/generated-assets/sageplot
+PTX: extracting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-sageplot.xsl
+PTX: converting sageplot3d-example-diagram.sage to sageplot3d-example-diagram.html
+PTX: converting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx to SVG graphics for placement in /home/user/qr-for-social-justice/generated-assets/sageplot
+PTX: extracting Sage diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-sageplot.xsl
+PTX: converting sageplot-example-diagram.sage to sageplot-example-diagram.svg
+Now generating asymptote images
+
+
+PTX: converting Asymptote diagrams from /home/user/qr-for-social-justice/source/main.ptx to HTML graphics for placement in /home/user/qr-for-social-justice/generated-assets/asymptote with method "server"
+PTX: extracting Asymptote diagrams from /home/user/qr-for-social-justice/source/main.ptx
+PTX: string parameters passed to extraction stylesheet: {'publisher': '/home/user/qr-for-social-justice/publication/publication.ptx', 'sageplot.fileformat': 'svg'}
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/extract-asymptote.xsl
+PTX: converting cflag.asy to cflag.html
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmps7h0uey1
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "group-roles" (xml:id)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmp7na4uou0
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "group-roles" (xml:id)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpzlezvgff
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "group-roles" (xml:id)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.26.237 - - [02/Mar/2022 21:55:59] "GET / HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:55:59] "GET /qr4sj.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:56:00] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:00] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:00] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:00] "GET /qr4sj.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:01] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:01] "GET /qr4sj.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:03] "GET /ch-first.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:56:04] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:04] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:04] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:04] "GET /ch-first.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:04] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:04] "GET /ch-first.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:06] "GET /ex_firstch.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:56:06] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:06] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:07] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:07] "GET /ex_firstch.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:56:07] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:56:07] "GET /ex_firstch.ptx HTTP/1.1" 404 -
+^[[A^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpwy8tphgb
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "group-roles" (xml:id)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpxc0pcm8y
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "group-roles" (xml:id)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.26.237 - - [02/Mar/2022 21:59:37] "GET / HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:59:37] "GET /qr4sj.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:59:38] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:38] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:38] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:38] "GET /qr4sj.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:38] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:38] "GET /qr4sj.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:41] "GET /ch-first.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:59:41] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:41] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:42] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:42] "GET /ch-first.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:42] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:42] "GET /ch-first.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:43] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:59:43] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:43] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:43] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:43] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:44] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:44] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:51] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 21:59:51] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:51] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:51] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:51] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 21:59:51] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 21:59:51] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d[C
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpb4od9tdv
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpvrhaguv0
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpay97gl2q
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (14 times)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview htmlbuild html -d[Kpretext viewht[K[K html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.26.237 - - [02/Mar/2022 22:19:30] "GET / HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 22:19:30] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 22:19:31] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 22:19:31] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 22:19:31] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 22:19:31] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 22:19:31] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 22:19:31] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 22:19:39] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.26.237 - - [02/Mar/2022 22:19:40] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 22:19:40] "GET /developer.css HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 22:19:40] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 22:19:40] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.26.237 - - [02/Mar/2022 22:19:40] code 404, message File not found
+192.168.26.237 - - [02/Mar/2022 22:19:40] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+^X]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ [K]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ [K]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmp0gd86t1s
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ [K]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpmyuompmp
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.86.240 - - [03/Mar/2022 19:55:11] "GET / HTTP/1.1" 200 -
+192.168.86.240 - - [03/Mar/2022 19:55:11] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.86.240 - - [03/Mar/2022 19:55:12] code 404, message File not found
+192.168.86.240 - - [03/Mar/2022 19:55:12] "GET /developer.css HTTP/1.1" 404 -
+192.168.86.240 - - [03/Mar/2022 19:55:12] code 404, message File not found
+192.168.86.240 - - [03/Mar/2022 19:55:12] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.86.240 - - [03/Mar/2022 19:55:12] code 404, message File not found
+192.168.86.240 - - [03/Mar/2022 19:55:12] "GET /frontmatter.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ [K]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ [K]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpyqtsau67
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+    *  PTX:BUG:   an element ("p") does not know its level
+    *               located within: "ground-rules" (xml:id), "Ground rules" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 15:52:32] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 15:52:32] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 15:52:33] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:52:33] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:52:33] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:52:33] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:52:33] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:52:33] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:52:36] "GET /sec_crashcourse-intro.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 15:52:36] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:52:36] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:52:36] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:52:36] "GET /sec_crashcourse-intro.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:52:36] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:52:36] "GET /sec_crashcourse-intro.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:54:08] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 15:54:09] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:54:09] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:54:09] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:54:09] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:54:09] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:54:09] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^[[A^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpnsl9tn9i
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise-inline) lacks a serial number, search output for "[NUM]"
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  PTX:ERROR:   An object (exercise-inline) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 15:59:51] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 15:59:52] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 15:59:52] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:59:52] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:59:52] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:59:52] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:59:52] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:59:52] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:59:57] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 15:59:58] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:59:58] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:59:58] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:59:58] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 15:59:58] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 15:59:58] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^[[A^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpholccpyb
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 16:03:18] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:03:18] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:03:18] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:03:18] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:03:19] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:03:19] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:03:19] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:03:19] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:03:20] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:03:20] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:03:20] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:03:20] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:03:20] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:03:20] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:03:20] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpgd3dtr_y
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 16:08:35] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:08:35] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:08:36] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:08:36] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:08:36] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:08:36] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:08:36] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:08:36] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:08:37] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:08:38] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:08:38] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:08:38] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:08:38] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:08:38] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:08:38] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+^[[APreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+^[[B^[[APTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmp79w5j9cb
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[Kpretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 16:10:03] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:10:04] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:10:04] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:10:04] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:10:04] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:10:04] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:10:04] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:10:04] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:10:05] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:10:06] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:10:06] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:10:06] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:10:06] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:10:06] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:10:06] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpsfhe1de9
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (15 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Setting the stage" (title)
+    *               located within: "Setting the stage" (title)
+    *  --------------
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+    *  PTX:ERROR:   An object (exercise) lacks a structure number, search output for "[STRUCT]"
+    *               located within: "A first-day activity for a pandemic" (title)
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmp11q_zoae
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (13 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpgljw5xzv
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (13 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmppilql53f
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (13 times)
+    *               located within: "preface" (xml:id)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "sec_crashcourse-intro" (xml:id), "Getting Started" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-why-math-for-SJ" (xml:id), "Why Teach Postsecondary Math for Social Justice?" (title)
+    *               located within: "subsec-other-textbooks" (xml:id), "Other Texts for a Math for Social Justice Course" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *               located within: "Texts for a Semester Course on Social Justice Math" (title)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmp7ppp81na
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (1 time)
+    *               located within: "preface" (xml:id)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 16:33:25] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:33:32] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:32] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:33] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:33] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:33] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:33] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:34] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:34] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:36] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:33:36] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:33:42] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:42] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:42] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:42] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:43] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:43] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:51] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:33:52] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:52] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:52] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:52] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:52] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:33:52] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:33:55] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:34:02] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:34:02] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:34:02] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:34:02] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:34:03] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:34:03] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^[[A^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpsdxd8_4l
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (1 time)
+    *               located within: "preface" (xml:id)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 16:35:28] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:35:29] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:35:33] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:35:33] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:35:38] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:35:38] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:35:38] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:35:38] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:35:38] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:35:46] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:35:46] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:35:46] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:35:46] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:35:46] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:35:46] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext view htmlbuild html -d
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Preparing to build into /home/user/qr-for-social-justice/output/html.
+
+Now building HTML into /home/user/qr-for-social-justice/output/html
+
+PTX: discovering source file's directory name: /home/user/qr-for-social-justice/source
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../generated-assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/generated-assets
+PTX: verifying and expanding input directory: /home/user/qr-for-social-justice/source/../assets
+PTX: input directory expanded to absolute path: /home/user/qr-for-social-justice/assets
+PTX: converting /home/user/qr-for-social-justice/source/main.ptx to HTML in /tmp/tmpwbnf8h1b
+PTX: XSL conversion of /home/user/qr-for-social-justice/source/main.ptx by /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl
+PTX: Successful application of /usr/local/lib/python3.8/dist-packages/pretext/static/xsl/pretext-html.xsl, but with messages:
+    *  MBX:WARNING: A section containing subsections needs to have other content inside an <introduction> and/or  <conclusion>.
+    *               located within: "sec_firstch-examples" (xml:id), "Example SJ Math Activities for the First Day" (title)
+    *  MBX:DEPRECATE: (2022-01-05) a "url" with content (provided clickable text) now requires a "@visual" attribute.  The "@href" attribute is being used in its place (1 time)
+    *               located within: "preface" (xml:id)
+    *  --------------
+
+Success! Run `pretext view html` to see the results.
+
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ pretext build html -d[4Pview html
+PreTeXt project found in `/home/user/qr-for-social-justice`.
+Now starting a server to preview directory `/home/user/qr-for-social-justice/output/html`.
+
+Server started at https://cocalc.com/d192ce3c-b123-45a9-b6a5-744eac79688c/server/8000/
+
+Use [Ctrl]+[C] to halt the server.
+
+192.168.225.125 - - [29/Mar/2022 16:37:25] "GET / HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:37:26] "GET /frontmatter.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:37:31] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:37:31] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:37:35] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:37:35] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:37:35] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:37:35] "GET /frontmatter.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:37:37] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:37:42] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:37:42] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:37:42] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:37:42] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:37:42] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:37:42] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:38:08] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:38:08] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:38:08] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:38:09] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:38:09] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:38:10] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:38:10] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:38:10] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:38:10] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:38:31] "GET /sec_firstch-examples.html HTTP/1.1" 200 -
+192.168.225.125 - - [29/Mar/2022 16:38:31] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:38:31] "GET /developer.css HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:38:32] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:38:32] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+192.168.225.125 - - [29/Mar/2022 16:38:32] code 404, message File not found
+192.168.225.125 - - [29/Mar/2022 16:38:32] "GET /sec_firstch-examples.ptx HTTP/1.1" 404 -
+^C
+Closing server...
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ^C
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ ]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ gh repo clone kaince/qr-for-social-justice
+[0;1;39mWelcome to GitHub CLI![0m
+
+To authenticate, please run `gh auth login`.
+]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ gh auth login
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+[0;39m  GitHub Enterprise Server[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m[0;36m GitHub.com[0m
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> HTTPS[0m
+[0;39m  SSH[0m
+7[1A[0G[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;39m  HTTPS[0m
+[0;1;36m> SSH[0m
+7[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> HTTPS[0m
+[0;39m  SSH[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations?[0m[0;36m HTTPS[0m
+[0G[2K[0;1;92m? [0m[0;1;99mAuthenticate Git with your GitHub credentials? [0m[38;5;242m(Y/n) [0m[?25l7[999;999f[6n8[?25h[6nU[1D[0KY[1D[1B[0G[1A[0G[0G[2K[0;1;92m? [0m[0;1;99mAuthenticate Git with your GitHub credentials? [0m[0;36mYes[0m
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mHow would you like to authenticate GitHub CLI?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> Login with a web browser[0m
+[0;39m  Paste an authentication token[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mHow would you like to authenticate GitHub CLI?[0m[0;36m Login with a web browser[0m
+
+[0;33m![0m First copy your one-time code: [0;1;39m4C22-F5B9[0m
+[0;1;39mPress Enter[0m to open github.com in your browser... 
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :0
+[1355:1355:0330/211420.183547:ERROR:ozone_platform_x11.cc(234)] Missing X server or $DISPLAY
+[1355:1355:0330/211420.184623:ERROR:env.cc(225)] The platform failed to initialize.  Exiting.
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :0
+/usr/bin/xdg-open: 869: iceweasel: not found
+/usr/bin/xdg-open: 869: seamonkey: not found
+/usr/bin/xdg-open: 869: mozilla: not found
+/usr/bin/xdg-open: 869: epiphany: not found
+/usr/bin/xdg-open: 869: konqueror: not found
+/usr/bin/xdg-open: 869: chromium: not found
+/usr/bin/xdg-open: 869: chromium-browser: not found
+[1410:1410:0330/211421.000586:ERROR:ozone_platform_x11.cc(234)] Missing X server or $DISPLAY
+[1410:1410:0330/211421.000658:ERROR:env.cc(225)] The platform failed to initialize.  Exiting.
+[?1049h[22;0;0t[1;56r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m[37m[40m[J[39;49m(B[m[54d[93m[44mGetting https://github.com/login/device[K[39;49m(B[m[93m[44mLooking up github.com[K[39;49m(B[m[93m[44mMaking HTTPS connection to github.com[39;49m(B[m[93m[44mVerified connection to github.com (cert=github.com)[39;49m(B[m[93m[44mCertificate issued by: /C=US/O=DigiCert Inc/CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1[39;49m(B[m[93m[44mSecure 128-bit TLS1.3 (ECDHE_RSA_AES_128_GCM_SHA256) HTTP connection[K[39;49m(B[m[3G[93m[44mnding HTTP request.[K[39;49m(B[m[93m[44mHTTP request sent; waiting for response.[39;49m(B[m[5G[93m[44m/1.1 302 Found[K[39;49m(B[m[93m[44mData transfer complete[39;49m(B[m[93m[44mHTTP/1.1 302 Found[K[39;49m(B[m[93m[44mUsing https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flogin%2Fdevice[39;49m(B[m[93m[44mGetting https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flogin%2Fdevice[39;49m(B[m[93m[44mLooking up github.com[K[39;49m(B[m[93m[44mMaking HTTPS connection to github.com[39;49m(B[m[93m[44mVerified connection to github.com (cert=github.com)[39;49m(B[m[93m[44mCertificate issued by: /C=US/O=DigiCert Inc/CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1[39;49m(B[m[93m[44mSecure 128-bit TLS1.3 (ECDHE_RSA_AES_128_GCM_SHA256) HTTP connection[K[39;49m(B[m[3G[93m[44mnding HTTP request.[K[39;49m(B[m[93m[44mHTTP request sent; waiting for response.[39;49m(B[m[5G[93m[44m/1.1 200 OK[K[39;49m(B[m[93m[44mReading headers...[39;49m(B[m[93m[44mgithub.com cookie: _device_id=2871c4399671a8504fa7298ee284e9cb Allow? (Y/N/Always/neVer)[39;49m(B[m[93m[44mAllowing this cookie.[K[39;49m(B[m[93m[44mgithub.com cookie: SameSite=Lax Allow? (Y/N/Always/neVer)[39;49m(B[m[93m[44mAllowing this cookie.[K[39;49m(B[m[93m[44mgithub.com cookie: _octo=GH1.1.939521464.1648674863 Allow? (Y/N/Always/neVer)[39;49m(B[m[93m[44mAllowing this cookie.[K[39;49m(B[m[93m[44mgithub.com cookie: logged_in=no Allow? (Y/N/Always/neVer)[39;49m(B[m[93m[44mAllowing this cookie.[K[39;49m(B[m[93m[44mgithub.com cookie: _gh_=tTDoq%2Fylcv7TrsUzYRHI5clZFuFxdIGi4RbYdiCj3Ap5sqguLF14D98HI3Otmro6iBHDGBvQSOdao66KNt6hBO7LUVRL0vZ%2Fls29Huk2jjElKkjPihkKMabJVC9xPfKyzT0C4yE3A%2FK3F92xLBFXGqzvENjkkgc9VYl7q62QcPI%2FMgAJ Allow? (Y/N/Always/neVer)[39;49m(B[m[93m[44mAllowing this cookie.[K[39;49m(B[m[93m[44mData transfer complete[39;49m(B[m[H[35m[40m#[1;212HSign in to GitHub · GitHub[2;4H[37m[40m#GitHub
+
+   [32m[40mSkip to content
+[4G[37m[40mGitHub no longer supports this web browser. [32m[40mLearn more about the browsers we support.
+
+[93m[44mSign in to GitHub
+
+[4G[37m[40m(BUTTON)
+   {{ message }}
+   (BUTTON)
+   [35m[40mUsername or email address ____________________
+[4GPassword ____________________[37m[40m [35m[40m____________________[37m[40m [35m[40mSign in[37m[40m [32m[40mForgot password?
+
+[4G[37m[40mNew to GitHub? [32m[40mCreate an account[37m[40m.
+
+   [35m[40m  * [32m[40mTerms
+[4G[35m[40m  * [32m[40mPrivacy
+[4G[35m[40m  * [32m[40mSecurity
+[4G[35m[40m  * [32m[40mContact GitHub
+
+[4G[37m[40m([32m[40mBUTTON[37m[40m) You can’t perform that action at this time.
+
+   You signed in with another tab or window. [32m[40mReload[37m[40m to refresh your session. You signed out in another tab or window. [32m[40mReload[37m[40m to refresh your session.
+
+   ([32m[40mBUTTON[37m[40m)   [39;49m(B[m[55d[37m[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.
+ H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list [39;49m(B[m[54d[93m[44m(NORMAL LINK) Use right-arrow or <return> to activate.[39;49m(B[m[2;5H[93m[40mGitHub[4G[39;49m(B[m[54d[93m[44mGetting https://github.com/opensearch.xml[K[39;49m(B[m[93m[44mLooking up github.com[K[39;49m(B[m[93m[44mMaking HTTPS connection to github.com[39;49m(B[m[93m[44mVerified connection to github.com (cert=github.com)[39;49m(B[m[93m[44mCertificate issued by: /C=US/O=DigiCert Inc/CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1[39;49m(B[m[93m[44mSecure 128-bit TLS1.3 (ECDHE_RSA_AES_128_GCM_SHA256) HTTP connection[K[39;49m(B[m[3G[93m[44mnding HTTP request.[K[39;49m(B[m[93m[44mHTTP request sent; waiting for response.[39;49m(B[m[5G[93m[44m/1.1 200 OK[K[39;49m(B[m[93m[44mData transfer complete[39;49m(B[m[93m[44mfirefox -private-window /tmp/lynxXXXXVXS3jj/L1443-4913TMP.txt.gz[39;49m(B[m[56;1H[?1049l[23;0;0t[?1l>Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :0
+[?1h=[?1h=[?1049h[22;0;0t[1;56r[39;49m]104(B[m[4l[?7h[H[2J[35m[40m#[37m[40m[210X[1;212H[35m[40mSign in to GitHub · GitHub[2;1H[37m[40m   #[93m[40mGitHub[37m[40m[K[3d[K[4d   [32m[40mSkip to content[37m[40m[K[5d   GitHub no longer supports this web browser. [32m[40mLearn more about the browsers we support.[37m[40m[K[6d[K[7d[93m[44mSign in to GitHub[37m[40m[K[8d[K[9d   (BUTTON)[K[10d   {{ message }}[K[11d   (BUTTON)[K[12d   [35m[40mUsername or email address ____________________[37m[40m[K[13d   [35m[40mPassword ____________________[37m[40m [35m[40m____________________[37m[40m [35m[40mSign in[37m[40m [32m[40mForgot password?[37m[40m[K[14d[K[15d   New to GitHub? [32m[40mCreate an account[37m[40m.[K[16d[K[17d   [35m[40m  * [32m[40mTerms[37m[40m[K[18d   [35m[40m  * [32m[40mPrivacy[37m[40m[K[19d   [35m[40m  * [32m[40mSecurity[37m[40m[K[20d   [35m[40m  * [32m[40mContact GitHub[37m[40m[K[21d[K[22d   ([32m[40mBUTTON[37m[40m) You can’t perform that action at this time.[K[23d[K[24d   You signed in with another tab or window. [32m[40mReload[37m[40m to refresh your session. You signed out in another tab or window. [32m[40mReload[37m[40m to refresh your session.[K[25d[K[26d   ([32m[40mBUTTON[37m[40m)[K[27d[K[28d[K[29d[K[30d[K[31d[K[32d[K[33d[K[34d[K[35d[K[36d[K[37d[K[38d[K[39d[K[40d[K[41d[K[42d[K[43d[K[44d[K[45d[K[46d[K[47d[K[48d[K[49d[K[50d[K[51d[K[52d[K[53d[K[54d[93m[44mGetting https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flogin%2Fdevice[K[55d[37m[40m  Arrow keys: Up and Down to move.  Right to follow a link; Left to go back.[K[56d H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list[K[54;85H[39;49m(B[m[2;5H[37m[40mGitHub[26;4H[39;49m(B[m[56;78H[54d[93m[44m(NORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[2;5H[93m[40mGitHub[4G[39;49m(B[m[C[37m[40mGitHub[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[26;5H[93m[40mBUTTON[4G[39;49m(B[m[C[32m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[2;5H[93m[40mGitHub[4G[39;49m(B[m[C[37m[40mGitHub[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[26;5H[93m[40mBUTTON[4G[39;49m(B[m[C[32m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[2;5H[93m[40mGitHub[4G[39;49m(B[m[C[37m[40mGitHub[56;78H[39;49m(B[m[54;55H[4;4H[93m[40mSkip to content[3G[39;49m(B[m[C[32m[40mSkip to content[56;78H[39;49m(B[m[54;55H[5;48H[93m[40mLearn more about the browsers we support.[5;47H[39;49m(B[m[C[32m[40mLearn more about the browsers we support.[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[9;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[5;48H[93m[40mLearn more about the browsers we support.[5;47H[39;49m(B[m[C[32m[40mLearn more about the browsers we support.[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[9;5H[93m[40mBUTTON[4G[39;49m(B[m[56;78H[54;58H[9;4H[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;58H[11;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[54;2H[93m[44mTextfield "%s") Enter text. Use UP or DOWN arrows or tab to move off.[39;49m(B[m[12;30H[93m[40m____________________[55;12H[37m[40m[1K Enter text into the field by typing on the keyboard[K
+    Ctrl-U to delete all text in field, [Backspace] to delete a character[K[12;30H[39;49m(B[m[54d[93m[44mEnter text. Use arrows or tab to move off of field.[K[39;49m(B[m[12;30H[93m[40mk[39;49m(B[m[54;52H[12;31H[93m[40ma[39;49m(B[m[54;52H[12;32H[93m[40mi[39;49m(B[m[54;52H[12;33H[93m[40mn[39;49m(B[m[54;52H[12;34H[93m[40mc[39;49m(B[m[54;52H[12;35H[93m[40me[39;49m(B[m[54;52H[12;36H[93m[40m@[39;49m(B[m[54;52H[12;37H[93m[40mg[39;49m(B[m[54;52H[12;38H[93m[40mm[39;49m(B[m[54;52H[12;39H[93m[40ma[39;49m(B[m[54;52H[12;40H[93m[40mi[39;49m(B[m[54;52H[12;41H[93m[40ml[39;49m(B[m[54;52H[12;42H[93m[40m.[39;49m(B[m[54;52H[12;43H[93m[40mc[39;49m(B[m[54;52H[12;44H[93m[40mo[39;49m(B[m[54;52H[12;45H[93m[40mm[39;49m(B[m[12;30H[35m[40mkaince@gmail.com____[54d[93m[44m(Password entry field) Enter text. Use UP or DOWN arrows or tab to move off.[39;49m(B[m[13;13H[93m[40m____________________[13;13H[39;49m(B[m[54d[93m[44mEnter text. Use arrows or tab to move off of field.[K[39;49m(B[m[13;13H[93m[40m*[39;49m(B[m[54;52H[13;14H[93m[40m*[39;49m(B[m[54;52H[13;15H[93m[40m*[39;49m(B[m[54;52H[13;16H[93m[40m*[39;49m(B[m[54;52H[13;17H[93m[40m*[39;49m(B[m[54;52H[13;18H[93m[40m*[39;49m(B[m[54;52H[13;19H[93m[40m*[39;49m(B[m[54;52H[13;20H[93m[40m*[39;49m(B[m[54;52H[13;21H[93m[40m*[39;49m(B[m[54;52H[13;22H[93m[40m*[39;49m(B[m[54;52H[13;23H[93m[40m*[39;49m(B[m[54;52H[13;24H[93m[40m*[39;49m(B[m[54;52H[13;25H[93m[40m*[39;49m(B[m[54;52H[13;26H[93m[40m*[39;49m(B[m[13;13H[35m[40m____________________[54d[93m[44m(Textfield "%s") Enter text. Use UP or DOWN arrows or tab to move off.[39;49m(B[m[13;34H[93m[40m____________________[13;34H[39;49m(B[m[54d[93m[44mEnter text. Use arrows or tab to move off of field.[K[39;49m(B[m[13;34H[54;52H[13;34H[35m[40m____________________[54d[93m[44m(Password entry field) Enter text. Use UP or DOWN arrows or tab to move off.[39;49m(B[m[13;13H[93m[40m**************______[27G[39;49m(B[m[13;13H[35m[40m____________________[54;2H[93m[44mTextfield "%s"[6P[54;71H[39;49m(B[m[13;34H[93m[40m____________________[13;34H[39;49m(B[m[54d[93m[44mEnter text. Use arrows or tab to move off of field.[K[39;49m(B[m[13;34H[93m[40mJ[39;49m(B[m[54;52H[13;35H[93m[40m0[39;49m(B[m[54;52H[13;36H[93m[40mj[39;49m(B[m[54;52H[13;37H[93m[40mo[39;49m(B[m[54;52H[13;38H[93m[40m [39;49m(B[m[54;52H[13;39H[93m[40mw[39;49m(B[m[54;52H[13;40H[93m[40ma[39;49m(B[m[54;52H[13;41H[93m[40ms[39;49m(B[m[54;52H[13;42H[93m[40m [39;49m(B[m[54;52H[13;43H[93m[40ma[39;49m(B[m[54;52H[13;44H[93m[40m [39;49m(B[m[54;52H[13;45H[93m[40mm[39;49m(B[m[54;52H[13;46H[93m[40ma[39;49m(B[m[54;52H[13;47H[93m[40mn[39;49m(B[m[13;34H[35m[40mJ0jo was a man______[55;3H[37m[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.
+ H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list [39;49m(B[m[54d[93m[44m(Form submit button) Use right-arrow or <return> to submit.[39;49m(B[m[13;55H[93m[40mSign in[13;54H[39;49m(B[m[54d[93m[44mSubmitting form...[K[39;49m(B[m[93m[44mGetting https://github.com/session[39;49m(B[m[93m[44mLooking up github.com[K[39;49m(B[m[93m[44mMaking HTTPS connection to github.com[39;49m(B[m[93m[44mVerified connection to github.com (cert=github.com)[39;49m(B[m[93m[44mCertificate issued by: /C=US/O=DigiCert Inc/CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1[39;49m(B[m[93m[44mSecure 128-bit TLS1.3 (ECDHE_RSA_AES_128_GCM_SHA256) HTTP connection[K[39;49m(B[m[3G[93m[44mnding HTTP request.[K[39;49m(B[m[93m[44mHTTP request sent; waiting for response.[39;49m(B[m[93m[44mRead 1.3 KiB of data, 4 KiB/sec.[K[39;49m(B[m[93m[44mHTTP/1.1 302 Found[K[39;49m(B[m[93m[44mgithub.com cookie: has_recent_activity=1 Allow? (Y/N/Always/neVer)[39;49m(B[m[93m[44mAllowing this cookie.[K[39;49m(B[m[93m[44mRead 121 bytes of data, 25 bytes/sec.[39;49m(B[m[93m[44mData transfer complete[K[39;49m(B[m[93m[44mHTTP/1.1 302 Found[K[39;49m(B[m[93m[44mUsing https://github.com/sessions/two-factor/mobile?auto=true[39;49m(B[m[93m[44mGetting https://github.com/sessions/two-factor/mobile?auto=true[39;49m(B[m[93m[44mLooking up github.com[K[39;49m(B[m[93m[44mMaking HTTPS connection to github.com[39;49m(B[m[93m[44mVerified connection to github.com (cert=github.com)[39;49m(B[m[93m[44mCertificate issued by: /C=US/O=DigiCert Inc/CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1[39;49m(B[m[93m[44mSecure 128-bit TLS1.3 (ECDHE_RSA_AES_128_GCM_SHA256) HTTP connection[K[39;49m(B[m[3G[93m[44mnding HTTP request.[K[39;49m(B[m[93m[44mHTTP request sent; waiting for response.[39;49m(B[m[5G[93m[44m/1.1 200 OK[K[39;49m(B[m[93m[44mReading headers...[39;49m(B[m[93m[44mgithub.com cookie: SameSite=Lax Allow? (Y/N/Always/neVer)[39;49m(B[m[93m[44mAllowing this cookie.[K[39;49m(B[m[93m[44mRead 446 bytes of data, 222 bytes/sec.[39;49m(B[m[93m[44mData transfer complete[K[39;49m(B[m[5;10r[10;1H
+[1;56r[16;53r[16;1H[12T[1;56r[1;2H(B[0;7m[37m[40m←←←[1;206H(B[0m[35m[40mGitHub · Where software is built[6;1H[93m[44mTwo-factor authentication
+
+
+
+[37m[40m   [33m[40mGitHub Mobile icon[37m[40m[K
+[K
+GitHub Mobile[K
+[K
+   We sent you a sign-in request on your GitHub Mobile app. Enter the digits shown below to verify your identity.
+[K
+[93m[44m20[37m[40m[K
+[K
+   We could not verify your identity. Try again to authenticate with your GitHub Mobile app.[K
+   [32m[40mTry again[37m[40m[K
+[5G[1K [93m[40m_______________________________________________________________________________________________________________________________________________________________________________________________________________________________[37m[40m[K
+[K
+   [35m[40m[ ] Use this method for future logins[37m[40m[K
+[K
+   Future logins on this device will prompt you to use [31m[40mGitHub Mobile[37m[40m by default.[K
+   Unable to verify with GitHub Mobile?[K
+   [35m[40m  * [32m[40mEnter two-factor authentication code[37m[40m[K
+   [35m[40m  * [32m[40mUse a recovery code or request a reset[37m[40m[K[38;4H[39;49m(B[m[56;78H[54d[93m[44m(NORMAL LINK) Use right-arrow or <return> to activate.[39;49m(B[m[2;5H[93m[40mGitHub[4G[39;49m(B[m[54d[93m[44mGetting https://github.com/opensearch.xml[K[39;49m(B[m[93m[44mLooking up github.com[K[39;49m(B[m[93m[44mMaking HTTPS connection to github.com[39;49m(B[m[93m[44mVerified connection to github.com (cert=github.com)[39;49m(B[m[93m[44mCertificate issued by: /C=US/O=DigiCert Inc/CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1[39;49m(B[m[93m[44mSecure 128-bit TLS1.3 (ECDHE_RSA_AES_128_GCM_SHA256) HTTP connection[K[39;49m(B[m[3G[93m[44mnding HTTP request.[K[39;49m(B[m[93m[44mHTTP request sent; waiting for response.[39;49m(B[m[5G[93m[44m/1.1 200 OK[K[39;49m(B[m[93m[44mData transfer complete[39;49m(B[m[93m[44mfirefox -private-window /tmp/lynxXXXXVXS3jj/L1443-2721TMP.txt.gz[39;49m(B[m[56;1H[?1049l[23;0;0t[?1l>Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :0
+[?1h=[?1h=[?1049h[22;0;0t[1;56r[39;49m]104(B[m[4l[?7h[H[2J[35m[40m#(B[0;7m[37m[40m←←←(B[0m[37m[40m[201X[1;206H[35m[40mGitHub · Where software is built[2;1H[37m[40m   #[93m[40mGitHub[37m[40m[K[3d[K[4d   [32m[40mSkip to content[37m[40m[K[5d[K[6d[93m[44mTwo-factor authentication[37m[40m[K[7d[K[8d   (BUTTON)[K[9d   {{ message }}[K[10d   [33m[40mGitHub Mobile icon[37m[40m[K[11d[K[12dGitHub Mobile[K[13d[K[14d   We sent you a sign-in request on your GitHub Mobile app. Enter the digits shown below to verify your identity.[K[15d[K[16d[93m[44m20[37m[40m[K[17d[K[18d   We could not verify your identity. Try again to authenticate with your GitHub Mobile app.[K[19d   [32m[40mTry again[37m[40m[K[20;5H[1K [93m[40m_______________________________________________________________________________________________________________________________________________________________________________________________________________________________[37m[40m[K[21d[K[22d   [35m[40m[ ] Use this method for future logins[37m[40m[K[23d[K[24d   Future logins on this device will prompt you to use [31m[40mGitHub Mobile[37m[40m by default.[K[25d   Unable to verify with GitHub Mobile?[K[26d   [35m[40m  * [32m[40mEnter two-factor authentication code[37m[40m[K[27d   [35m[40m  * [32m[40mUse a recovery code or request a reset[37m[40m[K[28d[K[29d   [35m[40m  * [32m[40mTerms[37m[40m[K[30d   [35m[40m  * [32m[40mPrivacy[37m[40m[K[31d   [35m[40m  * [32m[40mSecurity[37m[40m[K[32d   [35m[40m  * [32m[40mContact GitHub[37m[40m[K[33d[K[34d   ([32m[40mBUTTON[37m[40m) You can’t perform that action at this time.[K[35d[K[36d   You signed in with another tab or window. [32m[40mReload[37m[40m to refresh your session. You signed out in another tab or window. [32m[40mReload[37m[40m to refresh your session.[K[37d[K[38d   ([32m[40mBUTTON[37m[40m)[K[39d[K[40d[K[41d[K[42d[K[43d[K[44d[K[45d[K[46d[K[47d[K[48d[K[49d[K[50d[K[51d[K[52d[K[53d[K[54d[93m[44mGetting https://github.com/sessions/two-factor/mobile?auto=true[K[55d[37m[40m  Arrow keys: Up and Down to move.  Right to follow a link; Left to go back.[K[56d H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list[K[54;64H[39;49m(B[m[2;5H[37m[40mGitHub[38;4H[39;49m(B[m[56;78H[54d[93m[44m(NORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[2;5H[93m[40mGitHub[4G[39;49m(B[m[C[37m[40mGitHub[56;78H[39;49m(B[m[54;55H[4;4H[93m[40mSkip to content[3G[39;49m(B[m[C[32m[40mSkip to content[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[8;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mCheckbox Field) Use right-arrow or <return> to toggle.[39;49m(B[m[22;4H[93m[40m[ ][39;49m(B[m[C[35m[40m[ ][56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[26;8H[93m[40mEnter two-factor authentication code[7G[39;49m(B[m[C[32m[40mEnter two-factor authentication code[56;78H[39;49m(B[m[54;2H[93m[44mCheckbox Field) Use right-arrow or <return> to toggle.[39;49m(B[m[22;4H[93m[40m[ ][39;49m(B[m[C[35m[40m[ ][56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mCheckbox Field) Use right-arrow or <return> to toggle.[39;49m(B[m[22;4H[93m[40m[ ][39;49m(B[m[C[35m[40m[ ][56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[38;5H[93m[40mBUTTON[4G[39;49m(B[m[C[32m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[36;119H[93m[40mReload[118G[39;49m(B[m[C[32m[40mReload[56;78H[39;49m(B[m[54;55H[36;46H[93m[40mReload[45G[39;49m(B[m[C[32m[40mReload[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[34;5H[93m[40mBUTTON[4G[39;49m(B[m[C[32m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[32;8H[93m[40mContact GitHub[7G[39;49m(B[m[C[32m[40mContact GitHub[56;78H[39;49m(B[m[54;55H[31;8H[93m[40mSecurity[7G[39;49m(B[m[C[32m[40mSecurity[56;78H[39;49m(B[m[54;55H[30;8H[93m[40mPrivacy[7G[39;49m(B[m[C[32m[40mPrivacy[56;78H[39;49m(B[m[54;55H[29;8H[93m[40mTerms[7G[39;49m(B[m[C[32m[40mTerms[56;78H[39;49m(B[m[54;55H[27;8H[93m[40mUse a recovery code or request a reset[7G[39;49m(B[m[C[32m[40mUse a recovery code or request a reset[56;78H[39;49m(B[m[54;55H[26;8H[93m[40mEnter two-factor authentication code[7G[39;49m(B[m[C[32m[40mEnter two-factor authentication code[56;78H[39;49m(B[m[54;2H[93m[44mCheckbox Field) Use right-arrow or <return> to toggle.[39;49m(B[m[22;4H[93m[40m[ ][39;49m(B[m[56;78H[54;56H[22;5H[93m[40mX[39;49m(B[m[C[35m[40m[X][56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[8;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[4;4H[93m[40mSkip to content[3G[39;49m(B[m[C[32m[40mSkip to content[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[8;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mCheckbox Field) Use right-arrow or <return> to toggle.[39;49m(B[m[22;4H[93m[40m[X][39;49m(B[m[C[35m[40m[X][56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[8;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[8;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mCheckbox Field) Use right-arrow or <return> to toggle.[39;49m(B[m[22;4H[93m[40m[X][39;49m(B[m[C[35m[40m[X][56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[26;8H[93m[40mEnter two-factor authentication code[7G[39;49m(B[m[C[32m[40mEnter two-factor authentication code[56;78H[39;49m(B[m[54;55H[27;8H[93m[40mUse a recovery code or request a reset[7G[39;49m(B[m[C[32m[40mUse a recovery code or request a reset[56;78H[39;49m(B[m[54;55H[29;8H[93m[40mTerms[7G[39;49m(B[m[C[32m[40mTerms[56;78H[39;49m(B[m[54;55H[27;8H[93m[40mUse a recovery code or request a reset[7G[39;49m(B[m[C[32m[40mUse a recovery code or request a reset[56;78H[39;49m(B[m[54;55H[26;8H[93m[40mEnter two-factor authentication code[7G[39;49m(B[m[C[32m[40mEnter two-factor authentication code[56;78H[39;49m(B[m[54;2H[93m[44mCheckbox Field) Use right-arrow or <return> to toggle.[39;49m(B[m[22;4H[93m[40m[X][39;49m(B[m[C[35m[40m[X][56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[8;5H[93m[40mBUTTON[4G[39;49m(B[m[C[37m[40mBUTTON[56;78H[39;49m(B[m[54;2H[93m[44mNORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m(B[m[19;4H[93m[40mTry again[3G[39;49m(B[m[C[32m[40mTry again[56;78H[39;49m(B[m[54;2H[93m[44mScript button) Use UP or DOWN arrows or tab to move off.[39;49m(B[m[8;5H[93m[40mBUTTON[4G[39;49m(B[m[56;78H[54;58H[8;4H[56;78H[54;58H[8;4H]0;~/qr-for-social-justice[01;34m~/qr-for-social-justice[00m$ 
